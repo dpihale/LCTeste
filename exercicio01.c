@@ -5,6 +5,7 @@ int main()
 
     for(i=0;i<4;i++)
     {
+        //comentario
        
         for(j=0;j<8;j++)
         {   printf("linha: %d coluna: %d\n",i,j);

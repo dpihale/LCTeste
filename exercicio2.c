@@ -6,6 +6,7 @@ int main()
     float numero;
     for(int i=0;i<5;i++)
     {
+        //comentario
         printf("informe as 4 notas do %d o aluno: \n",count++);
         for(int j=0;j<4;j++)
         {
